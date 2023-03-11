@@ -179,3 +179,6 @@ b)docker push lefterisboy99/idk
 c)to diko m einai megalutero gt eprepe na metafero ola ta arxeia gia na ginei build h selida eno to arxiko image exei ena index.html 
 
 d)to ekana builder kai meta ekana copy mono tous fakelous pou xreiazomoun episis gia afto to erotima to ekana me to alphine kai m vgike 47.4mb 
+
+Askisi 5
+.github/workflows/docker-image.yml
